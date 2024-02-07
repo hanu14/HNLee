@@ -62,7 +62,32 @@ conference_name
 <a class="code" href="homepage_address">[talk]</a>
 <a class="code" href="homepage_address">[code]</a> -->
 
+ - **Papername** <br/>
+authors, **my_name** <br/>
+conference_name
+<a class="code" href="homepage_address">[OpenReview]</a>
+<a class="code" href="homepage_address">[arxiv]</a>
+<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="homepage_address">[talk]</a>
+<a class="code" href="homepage_address">[code]</a> -->
 
+ - **Papername** <br/>
+authors, **my_name** <br/>
+conference_name
+<a class="code" href="homepage_address">[OpenReview]</a>
+<a class="code" href="homepage_address">[arxiv]</a>
+<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="homepage_address">[talk]</a>
+<a class="code" href="homepage_address">[code]</a> -->
+
+ - **Papername** <br/>
+authors, **my_name** <br/>
+conference_name
+<a class="code" href="homepage_address">[OpenReview]</a>
+<a class="code" href="homepage_address">[arxiv]</a>
+<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="homepage_address">[talk]</a>
+<a class="code" href="homepage_address">[code]</a> -->
 
 <!-- ### Awards & Honorships -->
 
