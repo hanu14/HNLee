@@ -54,40 +54,40 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 
 ### Publications
  - **Super-Resolution Neural Radiance Field via Learning High Frequency Details for High-Fidelity Novel View Synthesis** <br/>
-authors, **my_name** <br/>
+**Han-nyoung Lee** <br/>, Hak Gu Kim
 IEEE Signal Processing Letters
-<a class="code" href="homepage_address">[OpenReview]</a>
-<a class="code" href="homepage_address">[arxiv]</a>
+<!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
+<!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="homepage_address">[pdf]</a>
-<a class="code" href="homepage_address">[talk]</a>
-<a class="code" href="homepage_address">[code]</a> -->
+<!-- <a class="code" href="homepage_address">[talk]</a> -->
+<!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Photometric Stereo Super Resolution via Complex Surface Structure Estimation** <br/>
-authors, **my_name** <br/>
+**Han-nyoung Lee** <br/>, Hak Gu Kim
 IEEE Access
-<a class="code" href="homepage_address">[OpenReview]</a>
-<a class="code" href="homepage_address">[arxiv]</a>
+<!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
+<!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="homepage_address">[pdf]</a>
-<a class="code" href="homepage_address">[talk]</a>
-<a class="code" href="homepage_address">[code]</a> -->
+<!-- <a class="code" href="homepage_address">[talk]</a> -->
+<!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Performance Comparison of Super-Resolution Neural Radiance Fields for Scalable 3D Rendering** <br/>
-authors, **my_name** <br/>
+Sangmin Lee, **Han-nyoung Lee** <br/>, Ho Jun Kim, Hak Gu Kim
 TECHART: Journal of Arts and Imaging Science
-<a class="code" href="homepage_address">[OpenReview]</a>
-<a class="code" href="homepage_address">[arxiv]</a>
+<!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
+<!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="homepage_address">[pdf]</a>
-<a class="code" href="homepage_address">[talk]</a>
-<a class="code" href="homepage_address">[code]</a> -->
+<!-- <a class="code" href="homepage_address">[talk]</a> -->
+<!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Neural 3D Rendering with Periodic Activation Functions** <br/>
-authors, **my_name** <br/>
+**Han-nyoung Lee** <br/>, Hak Gu Kim
 Moving Image & Technology (MINT)
-<a class="code" href="homepage_address">[OpenReview]</a>
-<a class="code" href="homepage_address">[arxiv]</a>
+<!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
+<!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="homepage_address">[pdf]</a>
-<a class="code" href="homepage_address">[talk]</a>
-<a class="code" href="homepage_address">[code]</a> -->
+<!-- <a class="code" href="homepage_address">[talk]</a> -->
+<!-- <a class="code" href="homepage_address">[code]</a>  -->
 
 <!-- ### Awards & Honorships -->
 
