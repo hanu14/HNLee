@@ -53,36 +53,36 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 <!--- Advisor:-->
 
 ### Publications
- - **Papername** <br/>
+ - **Super-Resolution Neural Radiance Field via Learning High Frequency Details for High-Fidelity Novel View Synthesis** <br/>
 authors, **my_name** <br/>
-conference_name
+IEEE Signal Processing Letters
 <a class="code" href="homepage_address">[OpenReview]</a>
 <a class="code" href="homepage_address">[arxiv]</a>
 <a class="code" href="homepage_address">[pdf]</a>
 <a class="code" href="homepage_address">[talk]</a>
 <a class="code" href="homepage_address">[code]</a> -->
 
- - **Papername** <br/>
+ - **Photometric Stereo Super Resolution via Complex Surface Structure Estimation** <br/>
 authors, **my_name** <br/>
-conference_name
+IEEE Access
 <a class="code" href="homepage_address">[OpenReview]</a>
 <a class="code" href="homepage_address">[arxiv]</a>
 <a class="code" href="homepage_address">[pdf]</a>
 <a class="code" href="homepage_address">[talk]</a>
 <a class="code" href="homepage_address">[code]</a> -->
 
- - **Papername** <br/>
+ - **Performance Comparison of Super-Resolution Neural Radiance Fields for Scalable 3D Rendering** <br/>
 authors, **my_name** <br/>
-conference_name
+TECHART: Journal of Arts and Imaging Science
 <a class="code" href="homepage_address">[OpenReview]</a>
 <a class="code" href="homepage_address">[arxiv]</a>
 <a class="code" href="homepage_address">[pdf]</a>
 <a class="code" href="homepage_address">[talk]</a>
 <a class="code" href="homepage_address">[code]</a> -->
 
- - **Papername** <br/>
+ - **Neural 3D Rendering with Periodic Activation Functions** <br/>
 authors, **my_name** <br/>
-conference_name
+Moving Image & Technology (MINT)
 <a class="code" href="homepage_address">[OpenReview]</a>
 <a class="code" href="homepage_address">[arxiv]</a>
 <a class="code" href="homepage_address">[pdf]</a>
