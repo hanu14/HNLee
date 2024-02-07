@@ -26,24 +26,12 @@ h1 {
   font-size:28px;
 }
 
-h1.title {
-  margin-bottom:5px;
-}
-
 h2 {
   color:#393939;
 }
 
-h2.subtitle {
-  color:#727272;
-}
-
 h3, h4, h5, h6 {
   color:#494949;
-}
-
-h4.education {
-    margin:0 0 10px;
 }
 
 a {
@@ -67,12 +55,8 @@ a:hover small {
   color:#777;
 }
 
-a.code {
-    color:#1D8A4D;
-}
-
 .wrapper {
-  width:960px;
+  width:860px;
   margin:0 auto;
 }
 
@@ -120,14 +104,18 @@ img {
   max-width:100%;
 }
 
-img.small_icon {
-    height: 15px;
-    vertical-align: sub;
-}
-
-img.shield-star {
-    height: 20px;
-    vertical-align: sub;
+kbd {
+  background-color: #fafbfc;
+  border: 1px solid #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
 }
 
 header {
@@ -182,8 +170,7 @@ ul.downloads {
 }
 
 strong {
-  /* color:#222; */
-  color:#727272;
+  color:#222;
   font-weight:700;
 }
 
@@ -199,7 +186,7 @@ strong {
 }
 
 section {
-  width:600px;
+  width:500px;
   float:right;
   padding-bottom:50px;
 }
@@ -296,34 +283,4 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-
-/* Rules for sizing the icon. */
-.material-icons {
-    vertical-align: sub;
-}
-
-.material-icons.md-18 { font-size: 18px; }
-.material-icons.md-24 { font-size: 24px; }
-.material-icons.md-36 { font-size: 36px; }
-.material-icons.md-48 { font-size: 48px; }
-
-/* Rules for using icons as black on a light background. */
-.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
-.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
-
-/* Rules for using icons as white on a dark background. */
-.material-icons.md-light { color: rgba(255, 255, 255, 1); }
-.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
-
-// Align font-awesome with material-icons
-.fab {
-    padding-left: 2px;
-    padding-right: 3px;
-}
-
-// Align Academicons with material-icons
-.ai {
-    padding-left: 2px;
-    padding-right: 3px;
 }
