@@ -5,7 +5,7 @@ layout: default
 # Introduce
 
 Hello!
-I'm an Ph.D. student in AI Contents at GSAIM, Chung-Ang University, 
+I'm an Ph.D. student in Imaging Engineering-AI Contents at GSAIM, Chung-Ang University, 
 and studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
 <!-- I hold a keen interest in the field of Multimodal, particularly in the domains of: -->
