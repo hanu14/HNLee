@@ -54,7 +54,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 
 ### Publications
  - **Super-Resolution Neural Radiance Field via Learning High Frequency Details for High-Fidelity Novel View Synthesis** <br/>
-**Han-nyoung Lee** <br/>, Hak Gu Kim
+**Han-nyoung Lee**, Hak Gu Kim <br/> 
 IEEE Signal Processing Letters
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
@@ -63,7 +63,7 @@ IEEE Signal Processing Letters
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Photometric Stereo Super Resolution via Complex Surface Structure Estimation** <br/>
-**Han-nyoung Lee** <br/>, Hak Gu Kim
+**Han-nyoung Lee**, Hak Gu Kim <br/>
 IEEE Access
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
@@ -72,7 +72,7 @@ IEEE Access
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Performance Comparison of Super-Resolution Neural Radiance Fields for Scalable 3D Rendering** <br/>
-Sangmin Lee, **Han-nyoung Lee** <br/>, Ho Jun Kim, Hak Gu Kim
+Sangmin Lee, **Han-nyoung Lee**, Ho Jun Kim, Hak Gu Kim <br/>
 TECHART: Journal of Arts and Imaging Science
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
@@ -81,7 +81,7 @@ TECHART: Journal of Arts and Imaging Science
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Neural 3D Rendering with Periodic Activation Functions** <br/>
-**Han-nyoung Lee** <br/>, Hak Gu Kim
+**Han-nyoung Lee**, Hak Gu Kim <br/>
 Moving Image & Technology (MINT)
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
