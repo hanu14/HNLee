@@ -2,122 +2,73 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Introduce
 
-[Link to another page](./another-page.html).
+Hello!
+I'm an M.S. student at Chung-Ang University, 
+specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+I hold a keen interest in the field of Multimodal, particularly in the domains of:
+> [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html)
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html)
+>
+> [Speech-Driven 3D Facial Animation](./another_pages/Speech-Driven3DFacialAnimation.html)
+> 
 
-### Header 3
+In addition, I am always open to expanding my horizons and exploring other fascinating areas within the [broader field](./another_pages/Another_Fields.html).
+* * *
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Profile
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<h4 class="education">
+  <i class="material-icons md-18">account_balance</i>
+  <a href="https://www.cau.ac.kr/index.do">Chung-Ang University (CAU)</a>, Seoul, Korea
+  <sup>2023.03 - Current</sup>
+</h4>
 
-#### Header 4
+- M.S.student in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- Advisor: [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
-##### Header 5
+<h4 class="education">
+  <i class="material-icons md-18">school</i>
+  <a href="http://www.konkuk.ac.kr/do/Index.do">Konkuk University</a>, Seoul, Korea
+  <sup>2016.03 - 2023.02</sup>
+</h4>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+- B.S.student in [Computer Science and Engineering](http://cse.konkuk.ac.kr)
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+<!--- Advisor:-->
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<!-- ### Publications -->
+<!-- - **Papername** <br/>
+authors, **my_name** <br/>
+conference_name
+<a class="code" href="homepage_address">[OpenReview]</a>
+<a class="code" href="homepage_address">[arxiv]</a>
+<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="homepage_address">[talk]</a>
+<a class="code" href="homepage_address">[code]</a> -->
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<!-- ### Awards & Honorships -->
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<!-- - [**name**](homepage_address)(date) -->
 
-```
-The final element.
-```
+
+<!-- ### Development Projects -->
+
+<!-- - **Name** <sup>2019.02 - Current</sup> <a class="code" href="code_homepage address">[code]</a> <br/> 
+detail -->
+
+<!-- 
+### Professional Activities -->
+<!-- 
+- **Reviewer of International Conferences** <br/>
+IEEE/CVF International Conference on Computer Vision (ICCV) 2023 <br/>\
+IEEE/CVF International Conference on Computer Vision (ICCV) 2023 <br/>\ -->
