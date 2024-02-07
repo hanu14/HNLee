@@ -1,16 +1,16 @@
-title: Hyungkyu Kim
-subtitle: (김형규)
-face: /assets/img/hyungkyukim.jpg
-description: M.S.student in Image/Video Engineering at Chung-Ang University
+title: Han-nyoung Lee
+subtitle: (이한녕)
+face: /assets/img/Han-nyoungLee.jpg
+description: PH.D student in AI Contents at Chung-Ang University
 location: Seoul, Korea
-email: hyung1208 AT cau.ac.kr
-homepage: https://github.com/kimhyungkyu-1208/
+email: hanu14 AT cau.ac.kr
+homepage: https://github.com/hanu14/
 twitter:
-google_scholar:
+google_scholar: https://scholar.google.com/citations?hl=ko&user=oTdPwJcAAAAJ&view_op=list_works&gmla=AH70aAVJYM6obleuDfCJVcyDZ-a1PdqXXZD66WhCHKa0dLS7jyWr4Zar7j8nJXX5hb2KqXrVyIdHO5AY9KksvJ8BEvaYRKRdi6o8X3OFfPSWpwggXcgusqdGxQ
 semantic_scholar:
 CV: 
-github: https://github.com/kimhyungkyu-1208
-linkedin: https://www.linkedin.com/in/rlagudrb1208/
+github: https://github.com/hanu14
+linkedin: #https://www.linkedin.com/in/rlagudrb1208/
 theme: jekyll-theme-minimal
 
 
