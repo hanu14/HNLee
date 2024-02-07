@@ -5,7 +5,7 @@ layout: default
 # Introduce
 
 Hello!
-I'm an Ph.D. student at Chung-Ang University, 
+I'm an Ph.D. student in GSAIM at Chung-Ang University, 
 specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
 <!-- I hold a keen interest in the field of Multimodal, particularly in the domains of: -->
