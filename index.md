@@ -37,7 +37,7 @@ and studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau
   <sup>2022.03 - 2024.02</sup>
 </h4>
 
-- M.S. student in [Imaging Engineering - VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- M.S. in [Imaging Engineering - VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
@@ -45,7 +45,7 @@ and studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau
   <sup>2016.03 - 2022.02</sup>
 </h4>
 
-- B.S. student in [Integrative Engineering](https://ie.cau.ac.kr/)
+- B.S. in [Integrative Engineering](https://ie.cau.ac.kr/)
 
 * * *
 
