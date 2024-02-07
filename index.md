@@ -24,7 +24,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
   <a href="https://www.cau.ac.kr/index.do"> GSAIM, Chung-Ang University (CAU)</a>, Seoul, Korea
-  <sup>202.03 - Current</sup>
+  <sup>2024.03 - Current</sup>
 </h4>
 
 - Ph.D. student in [AI Contents](https://gsaim.cau.ac.kr)
