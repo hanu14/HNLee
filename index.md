@@ -52,7 +52,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 
 <!--- Advisor:-->
 
-### Publications
+## Publications
  - **Super-Resolution Neural Radiance Field via Learning High Frequency Details for High-Fidelity Novel View Synthesis** <br/>
 **Han-nyoung Lee**, Hak Gu Kim <br/> 
 IEEE Signal Processing Letters (SPL), vol. 31, pp. 466 - 470, Jan. 2024
