@@ -6,7 +6,7 @@ layout: default
 
 Hello!
 I'm an Ph.D. student in AI Contents at GSAIM, Chung-Ang University, 
-specializing in AI Contents under the mentorship [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
+and studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
 <!-- I hold a keen interest in the field of Multimodal, particularly in the domains of: -->
 <!-- > [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html) -->
