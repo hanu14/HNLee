@@ -5,7 +5,7 @@ layout: default
 # Introduce
 
 Hello!
-I'm an PH.D. student at Chung-Ang University, 
+I'm an Ph.D. student at Chung-Ang University, 
 specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
 <!-- I hold a keen interest in the field of Multimodal, particularly in the domains of: -->
@@ -27,7 +27,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
   <sup>2023.03 - Current</sup>
 </h4>
 
-- PH.D.student in [AI Contents](https://gsaim.cau.ac.kr)
+- Ph.D. student in [AI Contents](https://gsaim.cau.ac.kr)
 - Advisor: [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
 
@@ -37,7 +37,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
   <sup>2022.03 - 2024.02</sup>
 </h4>
 
-- M.S.student in [Image/Video Engineering-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- M.S. student in [Image/Video Engineering-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
@@ -45,7 +45,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
   <sup>2016.03 - 2022.02</sup>
 </h4>
 
-- B.S.student in [Integrative Engineering](https://www.cau.ac.kr)
+- B.S. student in [Integrative Engineering](https://www.cau.ac.kr)
 
 * * *
 
