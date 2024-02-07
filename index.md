@@ -37,7 +37,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
   <sup>2022.03 - 2024.02</sup>
 </h4>
 
-- M.S. student in [Image/Video Engineering-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- M.S. student in [Imaging Engineering-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
