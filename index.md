@@ -23,7 +23,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
-  <a href="https://www.cau.ac.kr/index.do"> GASIM, Chung-Ang University (CAU)</a>, Seoul, Korea
+  <a href="https://www.cau.ac.kr/index.do"> GSAIM, Chung-Ang University (CAU)</a>, Seoul, Korea
   <sup>202.03 - Current</sup>
 </h4>
 
@@ -33,7 +33,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="https://gsaim.cau.ac.kr"> GASIM, Chung-Ang University (CAU)</a>, Seoul, Korea
+  <a href="https://gsaim.cau.ac.kr"> GSAIM, Chung-Ang University (CAU)</a>, Seoul, Korea
   <sup>2022.03 - 2024.02</sup>
 </h4>
 
