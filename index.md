@@ -67,7 +67,7 @@ IEEE Signal Processing Letters
 IEEE Access
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
-<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="https://ieeexplore.ieee.org/abstract/document/10411890">[pdf]</a>
 <!-- <a class="code" href="homepage_address">[talk]</a> -->
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
@@ -76,7 +76,7 @@ Sangmin Lee, **Han-nyoung Lee**, Ho Jun Kim, Hak Gu Kim <br/>
 TECHART: Journal of Arts and Imaging Science
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
-<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11559998">[pdf]</a>
 <!-- <a class="code" href="homepage_address">[talk]</a> -->
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
@@ -85,7 +85,7 @@ TECHART: Journal of Arts and Imaging Science
 Moving Image & Technology (MINT)
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
-<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11405840">[pdf]</a>
 <!-- <a class="code" href="homepage_address">[talk]</a> -->
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
