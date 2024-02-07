@@ -54,7 +54,7 @@ and studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau
 
 ## Publications
  - **Super-Resolution Neural Radiance Field via Learning High Frequency Details for High-Fidelity Novel View Synthesis** <br/>
-**Han-nyoung Lee**, Hak Gu Kim <br/> 
+**Han-nyoung Lee** and Hak Gu Kim <br/> 
 IEEE Signal Processing Letters (SPL), vol. 31, pp. 466 - 470, Jan. 2024
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
@@ -63,7 +63,7 @@ IEEE Signal Processing Letters (SPL), vol. 31, pp. 466 - 470, Jan. 2024
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Photometric Stereo Super Resolution via Complex Surface Structure Estimation** <br/>
-**Han-nyoung Lee**, Hak Gu Kim <br/>
+**Han-nyoung Lee** and Hak Gu Kim <br/>
 IEEE Access, vol. 12, pp. 14314 - 14323, Jan. 2024
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
@@ -72,7 +72,7 @@ IEEE Access, vol. 12, pp. 14314 - 14323, Jan. 2024
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Performance Comparison of Super-Resolution Neural Radiance Fields for Scalable 3D Rendering** <br/>
-Sangmin Lee, **Han-nyoung Lee**, Ho Jun Kim, Hak Gu Kim <br/>
+Sangmin Lee, **Han-nyoung Lee**, Ho Jun Kim and Hak Gu Kim <br/>
 TECHART: Journal of Arts and Imaging Science, vol. 10, no. 3, pp. 19 - 25, Oct. 2023
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
@@ -81,7 +81,7 @@ TECHART: Journal of Arts and Imaging Science, vol. 10, no. 3, pp. 19 - 25, Oct. 
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
  - **Neural 3D Rendering with Periodic Activation Functions** <br/>
-**Han-nyoung Lee**, Hak Gu Kim <br/>
+**Han-nyoung Lee** and Hak Gu Kim <br/>
 Moving Image & Technology (MINT), vol. 3, no. 1 pp. 1 - 7, Apr. 2023
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
