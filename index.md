@@ -82,7 +82,7 @@ TECHART: Journal of Arts and Imaging Science, vol. 10, no. 3, pp. 19 - 25, Oct. 
 
  - **Neural 3D Rendering with Periodic Activation Functions** <br/>
 **Han-nyoung Lee** and Hak Gu Kim <br/>
-Moving Image & Technology (MINT), vol. 3, no. 1 pp. 1 - 7, Apr. 2023
+Moving Image & Technology (MINT), vol. 3, no. 1, pp. 1 - 7, Apr. 2023
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11405840">[pdf]</a>
