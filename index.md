@@ -5,7 +5,7 @@ layout: default
 # Introduce
 
 Hello!
-I'm an M.S. student at Chung-Ang University, 
+I'm an PH.D. student at Chung-Ang University, 
 specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
 I hold a keen interest in the field of Multimodal, particularly in the domains of:
@@ -27,17 +27,25 @@ In addition, I am always open to expanding my horizons and exploring other fasci
   <sup>2023.03 - Current</sup>
 </h4>
 
-- M.S.student in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- PH.D.student in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 - Advisor: [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="http://www.konkuk.ac.kr/do/Index.do">Konkuk University</a>, Seoul, Korea
-  <sup>2016.03 - 2023.02</sup>
+  <a href="https://gsaim.cau.ac.kr">Chung-Ang University</a>, Seoul, Korea
+  <sup>2022.03 - 2024.02</sup>
 </h4>
 
-- B.S.student in [Computer Science and Engineering](http://cse.konkuk.ac.kr)
+- M.S.student in [Image Engineering-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+
+<h4 class="education">
+  <i class="material-icons md-18">school</i>
+  <a href="https://www.cau.ac.kr/index.do">Chung-Ang University</a>, Seoul, Korea
+  <sup>2016.03 - 2022.02</sup>
+</h4>
+
+- B.S.student in [Integrative Engineering](https://www.cau.ac.kr)
 
 * * *
 
