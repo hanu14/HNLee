@@ -58,7 +58,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 IEEE Signal Processing Letters
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
-<a class="code" href="homepage_address">[pdf]</a>
+<a class="code" href="https://ieeexplore.ieee.org/abstract/document/10413538">[pdf]</a>
 <!-- <a class="code" href="homepage_address">[talk]</a> -->
 <!-- <a class="code" href="homepage_address">[code]</a>  -->
 
