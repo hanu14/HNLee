@@ -24,7 +24,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
   <a href="https://www.cau.ac.kr/index.do">Chung-Ang University (CAU)</a>, Seoul, Korea
-  <sup>2023.03 - Current</sup>
+  <sup>202.03 - Current</sup>
 </h4>
 
 - Ph.D. student in [AI Contents](https://gsaim.cau.ac.kr)
@@ -52,8 +52,8 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 
 <!--- Advisor:-->
 
-<!-- ### Publications -->
-<!-- - **Papername** <br/>
+### Publications
+ - **Papername** <br/>
 authors, **my_name** <br/>
 conference_name
 <a class="code" href="homepage_address">[OpenReview]</a>
