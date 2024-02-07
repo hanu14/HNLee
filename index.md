@@ -8,15 +8,15 @@ Hello!
 I'm an PH.D. student at Chung-Ang University, 
 specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
-I hold a keen interest in the field of Multimodal, particularly in the domains of:
-> [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html)
+<!-- I hold a keen interest in the field of Multimodal, particularly in the domains of: -->
+<!-- > [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html) -->
 >
-> [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html)
+<!-- > [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html) -->
 >
-> [Speech-Driven 3D Facial Animation](./another_pages/Speech-Driven3DFacialAnimation.html)
+<!-- > [Speech-Driven 3D Facial Animation](./another_pages/Speech-Driven3DFacialAnimation.html) -->
 > 
 
-In addition, I am always open to expanding my horizons and exploring other fascinating areas within the [broader field](./another_pages/Another_Fields.html).
+<!-- In addition, I am always open to expanding my horizons and exploring other fascinating areas within the [broader field](./another_pages/Another_Fields.html). -->
 * * *
 
 ## Profile
@@ -27,7 +27,7 @@ In addition, I am always open to expanding my horizons and exploring other fasci
   <sup>2023.03 - Current</sup>
 </h4>
 
-- PH.D.student in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- PH.D.student in [AI Contents](https://gsaim.cau.ac.kr)
 - Advisor: [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
 
@@ -37,7 +37,7 @@ In addition, I am always open to expanding my horizons and exploring other fasci
   <sup>2022.03 - 2024.02</sup>
 </h4>
 
-- M.S.student in [Image Engineering-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- M.S.student in [Image/Video Engineering-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
