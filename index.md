@@ -23,7 +23,7 @@ and studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau
 
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
-  <a href="https://www.cau.ac.kr/index.do"> GSAIM, Chung-Ang University (CAU)</a>, Seoul, Korea
+  <a href="https://gsaim.cau.ac.kr"> GSAIM, Chung-Ang University (CAU)</a>, Seoul, Korea
   <sup>2024.03 - Current</sup>
 </h4>
 
@@ -41,11 +41,11 @@ and studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="https://www.cau.ac.kr/index.do"> Chung-Ang University (CAU)</a>, Seoul, Korea
+  <a href="https://www.cau.ac.kr/"> Chung-Ang University (CAU)</a>, Seoul, Korea
   <sup>2016.03 - 2022.02</sup>
 </h4>
 
-- B.S. student in [Integrative Engineering](https://www.cau.ac.kr)
+- B.S. student in [Integrative Engineering](https://ie.cau.ac.kr/)
 
 * * *
 
