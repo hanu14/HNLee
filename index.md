@@ -55,7 +55,7 @@ specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](
 ### Publications
  - **Super-Resolution Neural Radiance Field via Learning High Frequency Details for High-Fidelity Novel View Synthesis** <br/>
 **Han-nyoung Lee**, Hak Gu Kim <br/> 
-IEEE Signal Processing Letters
+IEEE Signal Processing Letters (SPL), vol. 31, pp. 466 - 470, Jan. 2024
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="https://ieeexplore.ieee.org/abstract/document/10413538">[pdf]</a>
@@ -64,7 +64,7 @@ IEEE Signal Processing Letters
 
  - **Photometric Stereo Super Resolution via Complex Surface Structure Estimation** <br/>
 **Han-nyoung Lee**, Hak Gu Kim <br/>
-IEEE Access
+IEEE Access, vol. 12, pp. 14314 - 14323, Jan. 2024
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="https://ieeexplore.ieee.org/abstract/document/10411890">[pdf]</a>
@@ -73,7 +73,7 @@ IEEE Access
 
  - **Performance Comparison of Super-Resolution Neural Radiance Fields for Scalable 3D Rendering** <br/>
 Sangmin Lee, **Han-nyoung Lee**, Ho Jun Kim, Hak Gu Kim <br/>
-TECHART: Journal of Arts and Imaging Science
+TECHART: Journal of Arts and Imaging Science, vol. 10, no. 3, pp. 19 - 25, Oct. 2023
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11559998">[pdf]</a>
@@ -82,7 +82,7 @@ TECHART: Journal of Arts and Imaging Science
 
  - **Neural 3D Rendering with Periodic Activation Functions** <br/>
 **Han-nyoung Lee**, Hak Gu Kim <br/>
-Moving Image & Technology (MINT)
+Moving Image & Technology (MINT), vol. 3, no. 1 pp. 1 - 7, Apr. 2023
 <!-- <a class="code" href="homepage_address">[OpenReview]</a> -->
 <!-- <a class="code" href="homepage_address">[arxiv]</a> -->
 <a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11405840">[pdf]</a>
